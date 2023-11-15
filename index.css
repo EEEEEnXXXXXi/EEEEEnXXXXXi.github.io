@@ -50,9 +50,3 @@ table {
 *,*::before,*::after{
     box-sizing: border-box;
 }
-
-h1{
-  color: blue;
-  font-size: 25px;
-  background-color: pink;
-}
